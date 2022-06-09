@@ -1,29 +1,9 @@
 # vue2-template
 
-## Project setup
-```
-npm install
-```
+## Boilerplate to start a Vue2 project
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. Download and change the project name in package.json
+2. Husky hooks Support for git
+3. Tailwind
+4. less 
+5. Jest for testing
